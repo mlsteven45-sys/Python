@@ -1,2 +1,0 @@
-# Python
-Steven Mejia Lopera
